@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-empty{
+    width: 500px;
+    border: solid 1px #666;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-empty{
+    width: 100px;
+}
+
+.container-input{
+    display: none;
+    width: 500px;
+    border: solid 1px #666;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-tareas{
+    display: none;
+    width: 500px;
+    border: solid 1px #666;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.container-img{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #f2f2f2;
+    border: solid 1px #666;
+    display: none;
+}
+
+
+.img-tarea{
+    width: 50px;
+    margin: 10px;
+}
+
+footer{
+    width: 500px;
+    border: solid 1px #666;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
